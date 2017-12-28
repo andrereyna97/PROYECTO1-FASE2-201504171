@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WarlockSoft_WS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WarlockSoft_WS_ServicioProyecto_ServicioProyecto" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://desktop-igqgfjs:8080/Warlock/ServicioProyecto</Value>
+    </Setting>
+    <Setting Name="WarlockSoft_WS_ServicioAgregarContacto_ServicioContacto" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://desktop-igqgfjs:8080/Warlock/ServicioContacto</Value>
+    </Setting>
+    <Setting Name="WarlockSoft_WS_ServicioAgregarUsuario_ServicioUsuario" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://desktop-igqgfjs:8080/Warlock/ServicioUsuario</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
